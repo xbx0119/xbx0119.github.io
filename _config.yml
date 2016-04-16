@@ -19,3 +19,5 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+baseurl: /xbx0119.github.io
