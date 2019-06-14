@@ -1,0 +1,33 @@
+{
+  "name": "",
+  "job": "",
+  "info": {
+    "age": "",
+    "phone": "",
+    "address": "",
+    "email": "",
+    "blog": "",
+    "github": ""
+  },
+  "edu": [
+    {
+      "time": "",
+      "school": "",
+      "major": "",
+      "content": ""
+    }
+  ],
+  "work": [
+    {
+      "time": "",
+      "company": "",
+      "content": ""
+    },
+    {
+      "time": "",
+      "company": "",
+      "content": ""
+    }
+  ],
+  "self": ""
+}
